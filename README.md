@@ -11,11 +11,20 @@ Java
 Spring Boot
 
 🔨Funcionalidades
+
 Funcionalidad 1: Crear un nuevo tópico.
+
 Funcionalidad 2: Mostrar todos los tópicos creados.
+
 Funcionalidad 3: Mostrar un tópico específico.
+
 Funcionalidad 4: Actualizar un tópico.
+
 Funcionalidad 5: Eliminar un tópico.
+
 Funcionalidad 6: API con rutas implementadas siguiendo las mejores prácticas del modelo Rest.
-Funcionalidad 7: Validaciones realizadas según reglas del negócio.
+
+Funcionalidad 7: Validaciones realizadas según reglas del negocio.
+
 Funcionalidad 8: Implementación de una base de datos para la persistencia de la información.
+
